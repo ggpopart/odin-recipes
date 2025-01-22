@@ -1,0 +1,11 @@
+h1 {
+    font: "Times New Roman", "Garamond", serif;
+    color: rgb(75, 50, 4);
+    background-color: wheat;
+
+}
+.recipes{
+    font: "Arial", "Helvetica", sans-serif;
+    color: purple;
+    background-color: black;
+}
